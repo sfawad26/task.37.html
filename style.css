@@ -1,0 +1,49 @@
+#div1 {
+     border: 1px black solid;
+     width: 300px;
+     padding: 20px;
+     display: inline-block;
+     background-color: white;
+     margin: 20px;
+     margin:60px;
+}
+     #div2 {
+     border: 1px black solid;
+     background-color: #e1306c;
+     color: white;
+     width: 300px;
+     padding: 20px;
+     display: inline-block;
+     
+}
+h1{
+    
+    padding-left:50px;
+    font-family: sans-serif;
+}
+img{
+   width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+button {
+    background-color: black;
+    color: white;
+    border: 10px;
+    border-radius: 20px;
+    font-weight:800;
+    height: 50px;
+    width: 200px;
+    
+   
+}
+#abc {
+     background-color: white;
+    color:  #e1306c;
+    border: 10px;
+    border-radius: 20px;
+    font-weight:800;
+    height: 50px;
+    width: 200px;
+    
+}
